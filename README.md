@@ -2,6 +2,7 @@
 
 Phase 1 is a static one-page marketing site. The project is intentionally structured so phase 2 can add a PostgreSQL catalog, Stripe Checkout, order webhooks, and an admin workflow without changing frameworks.
 
+
 ## Local development
 
 ```bash
